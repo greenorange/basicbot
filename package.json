@@ -1,0 +1,18 @@
+{
+  "name": "basicbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "fs": "^0.0.1-security",
+    "restify": "^4.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "LJM Bekhuis",
+  "license": "ISC"
+}
